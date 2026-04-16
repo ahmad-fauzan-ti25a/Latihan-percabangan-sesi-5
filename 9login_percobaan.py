@@ -1,4 +1,4 @@
-password_benar = "deskastrong"
+password_benar = "zanstrong"
 percobaan = 0
 
 while percobaan < 3 :
